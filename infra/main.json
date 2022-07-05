@@ -51,7 +51,7 @@
     },
     "enableDnsAndFirewallDeployment": {
       "type": "bool",
-      "defaultValue": true,
+      "defaultValue": false,
       "metadata": {
         "description": "Specifies whether firewall and private DNS Zones should be deployed."
       }
